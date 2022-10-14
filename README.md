@@ -16,6 +16,6 @@ Next we will setup the SDK using the file provide on Github.
 
 1. Install Node. 
 2. Clone repo provided on GitHub. 
-3. Replace the SDK key on line 18 where it says 'SDK KEY HERE'. 
+3. Replace the SDK key on line 18. 
 4. In the terminal, write the command 'node index.js'.
 5. Open webpage to see text displayed and your feature flag in action! 
